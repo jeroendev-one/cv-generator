@@ -1,0 +1,9 @@
+*.cls
+/test
+*.jpg
+*.jpeg
+*.png
+*.tex
+*.pdf
+/result
+user.json
